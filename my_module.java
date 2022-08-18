@@ -11,5 +11,7 @@ void mul(int a,int b){
 	return a*b;
 }
 void div(int a,int b){
+<<<<<<< HEAD
 	return a/b; #주석
+
 }
