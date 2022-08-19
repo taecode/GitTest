@@ -1,4 +1,4 @@
-# CodingTest
+# GitTest
 
 코드 작성
 
